@@ -100,3 +100,22 @@ nav ul li a{
     min-height: 100vh;
     padding: 10px 10%;
 }
+
+.Tugas{
+    top: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.Tugas h1{
+    font-size: 70px;
+    color: black;
+}
+.Tugas p{
+    margin: 10px 12px 5px;
+    color: #333;
+}
+
+.ScreenShot{
+    margin-left: 20%;
+    width: 600px;
+}
